@@ -8,12 +8,12 @@
 }
 :root {
     --color-basico:#fff;
-    --color-principal:#683a61;
+    --color-principal:#fedf1d;
     --color-secundario:#101419;
 }
 
 body {
-    background: linear-gradient(to right, #101419, #202436, #3f3150, #683a61, #954166);
+    background: radial-gradient(circle, #f4c70c, #b78f19, #7b5c19, #402f13, #020100);
 }
 
 /* Aqui inicia el codigo CSS de encabezado*/
@@ -34,12 +34,12 @@ header {
     align-items: center;
     text-decoration: none;
     font-family: 'Rubik Wet Paint';
-    font-size: 27px;
+    font-size: 21px;
     color: var(--color-principal); 
 }
 .logo img {
     margin-right: 5px; 
-    height: 45px; 
+    height: 50px; 
 }
 .barra-nav {
     display: flex;
@@ -73,7 +73,7 @@ header.sticky {
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(to right, #101419, #202436, #3f3150, #683a61, #954166);
+    background: radial-gradient(circle, #f4c70c, #b78f19, #7b5c19, #402f13, #020100);
     position: relative;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -207,7 +207,7 @@ section {
         right: -100%;
         width: 300px;
         height: 60vh;
-        background: radial-gradient(circle, #683a61, #483355, #2e2b44, #1b202f, #101419); 
+        background: #2a1f1f;; 
         display: flex;
         align-items: center;
         flex-direction: column;
@@ -718,7 +718,7 @@ section {
     transition: 0.5s;
     justify-content: flex-start;
     align-items: center;
-    background: linear-gradient(to right, #101419, #202436, #3f3150, #683a61, #954166);
+    background: radial-gradient(circle, #f4c70c, #b78f19, #7b5c19, #402f13, #020100);
 }
 .carta-heroes img {
     position: absolute;
@@ -852,7 +852,7 @@ section {
     overflow: hidden;
 }
 .carousel-item {
-    background: linear-gradient(to right, #101419, #202436, #3f3150, #683a61, #954166);
+    background: radial-gradient(circle, #f4c70c, #b78f19, #7b5c19, #402f13, #020100);
     color: var(--color-basico);
     margin: 11px;
     padding: 21px;
@@ -1156,7 +1156,7 @@ section {
     flex-wrap: wrap;
 }
 .caracteristica {
-    background: linear-gradient(to right, #101419, #202436, #3f3150, #683a61, #954166);
+    background: radial-gradient(circle, #f4c70c, #b78f19, #7b5c19, #402f13, #020100);
     border-radius: 10px;
     padding: 20px;
     margin: 10px;
@@ -1296,7 +1296,7 @@ section {
 
 /* Aqui inicia el codigo CSS de la sesión footer*/
 .pie-de-pagina {
-    background: radial-gradient(circle, #683a61, #483355, #2e2b44, #1b202f, #101419); 
+    background: radial-gradient(circle, #f4c70c, #b78f19, #7b5c19, #402f13, #020100);
     color: var(--color-basico);
     padding: 20px 10px;
     text-align: center;

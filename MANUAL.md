@@ -50,7 +50,6 @@ Para suscribirte a nuestro boletín de noticias:
 ### Problemas Comunes
 
 - **La Pagina Web no carga correctamente:** Asegúrate de tener una conexión a internet estable y de usar un navegador actualizado.
-- **La Pagina Web no carga correctamente:** Asegúrate de tener una conexión a internet estable y de usar un navegador actualizado.
 - **Problemas al registrarse:** Verifica que todos los campos obligatorios estén completados correctamente y que el correo electrónico ingresado sea válido.
 
 Para más problemas, visita nuestra página de [Soporte](#) o contacta al equipo de atención al cliente.
